@@ -13,6 +13,6 @@
 </div><br>
 
 ## Email para contato
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](emailto=pedroalexandrea13@gmail.com)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](pedroalexandrea13@gmail.com)
 
 <img src=https://i.pinimg.com/originals/dc/b2/42/dcb242f28517da9d098ee766280fbda8.gif>
