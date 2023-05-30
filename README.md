@@ -1,7 +1,7 @@
 ### Olá eu sou pedro Alexandre👋,dev iniciante.
 
 
-[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pedroalexandrefs/)
+
 
 ![pedroalexandreFS GitHub stats](https://github-readme-stats.vercel.app/api?username=pedroalexandreFS&show_icons=true&theme=tokyonight)
 
@@ -13,7 +13,8 @@
  <img src=https://i.pinimg.com/originals/2f/65/d9/2f65d9234895580bab8eb0bb411a413a.gif>
 </div><br>
 
-## Email para contato
+## Redes sociais
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](pedroalexandrea13@gmail.com)
+[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pedroalexandrefs/)
 
 <img src=https://i.pinimg.com/originals/dc/b2/42/dcb242f28517da9d098ee766280fbda8.gif>
