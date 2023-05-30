@@ -11,3 +11,8 @@
 <img align="center" alt="html5" src=https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white>
 <img align="center" alt="css" src=https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white>
 </div><br>
+
+## Email para contato
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto=pedroalexandrea13@gmail.com)
+
+<img src=https://i.pinimg.com/originals/dc/b2/42/dcb242f28517da9d098ee766280fbda8.gif>
