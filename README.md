@@ -3,7 +3,7 @@
 
 
 
-![pedroalexandreFS GitHub stats](https://github-readme-stats.vercel.app/api?username=pedroalexandreFS&show_icons=true&theme=tokyonight)
+![pedroalexandreFS_status](https://github-readme-stats.vercel.app/api?username=pedroAlexandreFS&show_icons=true&theme=dracula)
 
 ## tecnologias que eu uso no dia a dia
 
