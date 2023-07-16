@@ -1,4 +1,4 @@
-<div align="center"><h1>Seja bem vindo ao meu pefil</h1>
+<div align="center"><h1>Seja bem vindo ao meu perfil</h1>
     <Img width="60%" src="https://github-readme-stats.vercel.app/api?username=pedroAlexandreFS&show_icons=true&theme=dracula">
    </div>
 
