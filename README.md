@@ -9,6 +9,7 @@
         <img align="center" alt="css" src=https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white>
     <img align="center" alt="sass" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
         <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+         <img align="center" alt="jquery" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
        <br><br>
           <img  width="30%"  align="center"
 src=https://i.pinimg.com/originals/2f/65/d9/2f65d9234895580bab8eb0bb411a413a.gif>  
@@ -18,7 +19,7 @@ src=https://i.pinimg.com/originals/2f/65/d9/2f65d9234895580bab8eb0bb411a413a.gif
 
    <h2>O que estou estudando no momento 🕒</h2>
    <div>
-    <img align="center" alt="js" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"><br><br>
+   <img align="center" alt="bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"><br><br>
     <img align="center" src="https://i.pinimg.com/originals/f0/f0/d9/f0f0d932d6e39c7af5aa305cbd8da735.gif">
    </div>
 
