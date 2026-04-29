@@ -17,16 +17,3 @@ src=https://i.pinimg.com/originals/2f/65/d9/2f65d9234895580bab8eb0bb411a413a.gif
     
    </div>
 
-   <h2>O que estou estudando no momento 🕒</h2>
-   <div>
-   <img align="center" alt="bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"><br><br>
-    <img align="center" src="https://i.pinimg.com/originals/f0/f0/d9/f0f0d932d6e39c7af5aa305cbd8da735.gif">
-   </div>
-
-
-## Redes sociais
-[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pedroalexandre_fs/?next=%2F)
-[![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Pedro_alfs)
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-alexandre-b96623279/)
-
-<img align="center" src=https://i.pinimg.com/originals/dc/b2/42/dcb242f28517da9d098ee766280fbda8.gif>
